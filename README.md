@@ -47,24 +47,3 @@ Potential enhancements for Vishwa-bot include:
 
 ![](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Chatbot%20on%20Chainlit%20Interface/Visualizations/Result1.png)
 
-## Getting Started
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website.git
-
-1. **Install Dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-
-1. **Create Embeddings:**
-
-   ```bash
-   python ingest.py
-
-1. **Run the application:**
-
-   ```bash
-   chainlit run model.py

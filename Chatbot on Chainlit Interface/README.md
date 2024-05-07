@@ -42,10 +42,10 @@ Potential enhancements for Vishwa-bot include:
 
 ### Results obtained from the model:
 
-![](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Visualizations/Result2.png)
+![]([https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Visualizations/Result2.png](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Chatbot%20on%20Chainlit%20Interface/Visualizations/Result1.png))
 
 
-![](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Visualizations/Result1.png)
+![]([https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Visualizations/Result1.png](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Chatbot%20on%20Chainlit%20Interface/Visualizations/Result2.png))
 
 ## Getting Started
 

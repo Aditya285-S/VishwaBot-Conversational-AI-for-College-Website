@@ -54,17 +54,12 @@ Potential enhancements for Vishwa-bot include:
    ```bash
    git clone https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website.git
 
-1. **Install Dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-
 1. **Create Embeddings:**
 
    ```bash
-   python ingest.py
+   python model.py
 
 1. **Run the application:**
 
    ```bash
-   chainlit run model.py
+   python app.py

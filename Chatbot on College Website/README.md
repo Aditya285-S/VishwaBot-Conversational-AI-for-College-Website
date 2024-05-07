@@ -2,7 +2,7 @@
 
 ## Overview
 
-Vishwa-bot is a project aimed at implementing an effective conversational AI system for a college website to address student queries efficiently, streamline administrative tasks, and enhance overall user experience and satisfaction. This README provides an overview of the project methodology, components, challenges, and limitations.
+Vishwa-bot is a project aimed at implementing an effective conversational AI system for a college website to address student queries efficiently, streamline administrative tasks, and enhance overall user experience and satisfaction.
 
 ## Methodology
 

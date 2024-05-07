@@ -45,7 +45,7 @@ Potential enhancements for Vishwa-bot include:
 ![](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Chatbot%20on%20College%20Website/Results/Result%201.png)
 
 
-![](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Visualizations/Result1.png)
+![](https://github.com/Aditya285-S/VishwaBot-Conversational-AI-for-College-Website/blob/main/Chatbot%20on%20Chainlit%20Interface/Visualizations/Result1.png)
 
 ## Getting Started
 
